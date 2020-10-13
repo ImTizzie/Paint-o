@@ -20,9 +20,15 @@ When you wanna feel like you're painting graffiti.
 
 # Controls
 **Colors -** Number keys '0' through '7'.
+
 **Background Colors -** 'SHIFT' + number keys '0' through '7'.
+
 **Reset -** Mouse right-click.
+
 **Increase Brush Size -** '+' key.
+
 **Decrease Brush Size -** '-' key.
+
 **Change Brush Shape -** 'b' key.
+
 **Cycle Spray Paint -** 's' key.
